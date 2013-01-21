@@ -1,5 +1,0 @@
-inherit rox
-
-SRC_URI="mirror://sourceforge/rox/${ORIG_PN}-${PV}.tar.gz"
-
-ROX_APP="Appearance"
